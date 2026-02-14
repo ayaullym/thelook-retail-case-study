@@ -32,20 +32,13 @@ The focus is on **actionable insights**, not descriptive reporting.
 
 ---
 
-## 🔄 Analytical Workflow
+## 🔄 Analysis Approach
 
-1. **SQL (BigQuery)**  
-   - Source of truth for all metrics and logic  
-   - KPI aggregation, category performance, and RFM segmentation  
+- **SQL (BigQuery)** was used as the primary source of truth to calculate KPIs, product performance, and RFM customer segments.
+- **Python (Jupyter Notebook)** was used for light validation and sanity checks on exported SQL results.
+- **Tableau Public** was used to explore trends, communicate insights, and support business decision-making.
 
-2. **Python (Validation)**  
-   - Sanity checks on SQL outputs  
-   - Segment distributions and metric consistency  
-   - No transformation logic duplicated from SQL  
-
-3. **Tableau (Insights & Decisions)**  
-   - Visual storytelling for stakeholders  
-   - KPI monitoring, risk detection, and strategic recommendations  
+The workflow reflects a real-world analytics setup where **core logic lives in SQL**, validation is minimal and focused, and insights are delivered through dashboards.
 
 ---
 
