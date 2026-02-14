@@ -58,7 +58,7 @@ This project includes **three Tableau dashboards**, each answering a distinct bu
 ## 1️⃣ Retail KPI Overview — Growth, Profitability & Operational Risk
 
 🔗 **Tableau Public:**  
-https://public.tableau.com/views/RetailKPIOverviewGrowthProfitabilityOperationalRisk/RetailKPIOverviewGrowthProfitabilityOperationalRisk
+[View Retail KPI Overview](https://public.tableau.com/views/RetailKPIOverviewGrowthProfitabilityOperationalRisk/RetailKPIOverviewGrowthProfitabilityOperationalRisk)
 
 ### What this dashboard shows
 - Monthly revenue trends  
@@ -81,7 +81,7 @@ https://public.tableau.com/views/RetailKPIOverviewGrowthProfitabilityOperational
 ## 2️⃣ Product & Category Performance
 
 🔗 **Tableau Public:**  
-https://public.tableau.com/views/ProductCategoryPerformance_17708688410610/ProductCategoryDashboard
+[View Product & Category Performance](https://public.tableau.com/views/ProductCategoryPerformance_17708688410610/ProductCategoryDashboard)
 
 ### What this dashboard shows
 - Revenue contribution by category  
@@ -103,7 +103,7 @@ https://public.tableau.com/views/ProductCategoryPerformance_17708688410610/Produ
 ## 3️⃣ RFM Customer Segmentation — Revenue & Value Analysis
 
 🔗 **Tableau Public:**  
-https://public.tableau.com/views/RFMCustomerSegmentationRevenueValueAnalysis/RFMCustomerSegmentationRevenueValueAnalysis
+[View RFM Customer Segmentation](https://public.tableau.com/views/RFMCustomerSegmentationRevenueValueAnalysis/RFMCustomerSegmentationRevenueValueAnalysis)
 
 ### What this dashboard shows
 - Customer segmentation using **Recency, Frequency, Monetary (RFM)** analysis  

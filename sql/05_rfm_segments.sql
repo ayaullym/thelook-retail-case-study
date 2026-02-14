@@ -37,9 +37,9 @@ rfm AS (
 scored AS (
   SELECT
     *,
-    NTILE(4) OVER (ORDER BY recency ASC) AS r_quartile,     -- low recency = best
-    NTILE(4) OVER (ORDER BY frequency DESC) AS f_quartile,  -- high frequency = best
-    NTILE(4) OVER (ORDER BY monetary DESC) AS m_quartile    -- high monetary = best
+    NTILE(4) OVER (ORDER BY recency ASC) AS r_quartile,     
+    NTILE(4) OVER (ORDER BY frequency DESC) AS f_quartile, 
+    NTILE(4) OVER (ORDER BY monetary DESC) AS m_quartile   
   FROM rfm
 )
 SELECT
